@@ -8,5 +8,14 @@
 </p>
 
 ## About My Project
-
 Very simple project. Im new to git and frameworks. I upload daily my projects.
+
+## Changes to previous one
+- Using vite properly to get bootstrap instead of using CDN
+- Not creating auth scaffolding for project with no user account functionality
+- Creating seeder and factory 
+
+## TODO:
+- Use controllers instead of routes
+- Add some functionalities (like type of the task or a person who created it)
+- organize code better
