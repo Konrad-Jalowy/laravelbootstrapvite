@@ -1,1 +1,4 @@
-require('./bootstrap');
+// require('./bootstrap');
+import './bootstrap';
+import '../css/app.css';
+import '../sass/app.scss';
